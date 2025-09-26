@@ -67,6 +67,8 @@ print(result2)
 <img width="432" height="204" alt="image" src="https://github.com/user-attachments/assets/11ac186f-4837-401e-b859-fdef475ab646" />
 
 
+
+
 <img width="446" height="191" alt="image" src="https://github.com/user-attachments/assets/2b008b74-b2a2-47df-9abe-00aa4d6cd15e" />
 
 ## Result :
